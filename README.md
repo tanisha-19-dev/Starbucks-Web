@@ -59,4 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 *Disclaimer: This project is a replica created for educational purposes and is not affiliated with Starbucks.*
 
-Feel free to contact me at your@email.com for any questions or feedback!
+Feel free to contact me at tanisha20579@gmail.com for any questions or feedback!
